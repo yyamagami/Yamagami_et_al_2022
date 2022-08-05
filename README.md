@@ -1,5 +1,5 @@
 # Yamagami_et_al_2022
-Python scripts to reproduce main figures in Yamagami et al. (2022).
+Python scripts to reproduce main figures in Yamagami et al. (2022) (https://doi.org/10.1038/s41467-022-31117-6).
 
 Original scrips and data have been uploaded to Zenodo (https://doi.org/10.5281/zenodo.6445460).
 
